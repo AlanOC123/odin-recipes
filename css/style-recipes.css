@@ -1,0 +1,62 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 31px;
+}
+
+li { 
+    font-size: 18px;
+}
+
+nav {
+    font-size: 18x;
+    font-weight: bold;
+    color: darkred;
+}
+.showcase {
+    background-color: darkslategray;
+    height: auto;
+    text-align: center;
+    background-color: salmon;
+    color: white;
+}
+
+.showcase h2 {
+    text-align: start;
+}
+
+
+.showcase img {
+    width: 1000px;
+    height: auto;
+}
+
+.container {
+    background-color: lightslategray;
+    width: 100%;   
+}
+
+.description {
+    width: 25vw;
+    height: auto;
+    text-align: start;
+}
+
+main {
+    background-color: lavenderblush;
+    font-family: "Garamond" sans-serif;
+}
+
+main .header {
+    background-color: darkslategray;
+}
+
+main h2 {
+    color: white;
+}
